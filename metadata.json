@@ -1,0 +1,6 @@
+{
+  "name": "LinuxLab",
+  "description": "Interactive Linux learning platform featuring simulated terminal environments, hands-on tasks, quizzes, and curriculum progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
